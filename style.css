@@ -1,0 +1,43 @@
+a{
+
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    padding-right: 15px;
+    background-color: yellowgreen;
+    margin: 20px;
+    font-style: italic;
+}
+a:hover{
+    color: white;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+}
+h3{
+    text-align: center;
+    font-style: italic; 
+    background-color: yellowgreen;
+    margin: 20px;
+}
+ul{
+    text-align: center;
+    background-color: aqua;
+    font-size: 25px;
+    padding-right: 10px;
+    
+}
+li{
+    background-color: aqua;
+    font-size: 25px;
+    padding-right: 10px;
+}
+p{
+   font-style: italic;
+    font-size: 25px; 
+}
+body{
+    background-color: rgb(197, 216, 216);
+}
